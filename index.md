@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: zallu.png
+  image: zallu.jpg
 published: true
 ---
 
