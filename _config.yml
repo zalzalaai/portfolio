@@ -3,7 +3,7 @@
 title: Zalzala Bhurtel
 description: Biotechnology Undergraduate | Purbanchal University | Art, Anime & Applied Science
 
-baseurl: / #name of GitHub repository
+baseurl: /portfolio #name of GitHub repository
 url: "zalzala.com.np" #custom url to be used instead of GitHub repository
 email: #
 
